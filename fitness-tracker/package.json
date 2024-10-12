@@ -1,0 +1,14 @@
+{
+  "name": "fitness-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type":"module",
+  "dependencies": {
+    "chart.js": "^4.4.4",
+    "firebase": "^10.14.1",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
